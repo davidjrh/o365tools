@@ -1,4 +1,4 @@
-o365tools
+Office 365 scripts and utilities
 =========
 
-My Office 365 tools, powershell scripts and related stuff
+My Office 365 utilities, powershell scripts and related stuff
